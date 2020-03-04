@@ -1,0 +1,6 @@
+上传到 Git Hub 的方法
+Push an existing repository from the command line :
+
+git remote add origin https://github.com/XKHoshizora/Some-Everyday-Tools.git
+
+git push -u origin master
